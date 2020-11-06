@@ -23,6 +23,7 @@
 5. Week 05: [Registered students](https://classroom.github.com/a/jgBfin9-) |  [Auditors](https://classroom.github.com/a/0Dff1y7L) | [Solutions](https://github.com/UM-R-for-EnvSci-Auditor/wk05-hw-solutions)
 6. Week 06: [Registered students](https://classroom.github.com/a/dvvmrNS4) |  [Auditors](https://classroom.github.com/a/nkvS0_Yv) | [Solutions](https://github.com/UM-R-for-EnvSci-Auditor/wk06-hw-solutions)
 7. Week 07: [Registered students](https://classroom.github.com/a/PCNGm5u_) | [Auditors](https://classroom.github.com/a/KQp1kfDO)  | [Solutions](https://github.com/UM-R-for-EnvSci-Auditor/wk07-hw-solutions)
+8. Week 08: [Registered students](https://classroom.github.com/a/EKtZ6WKc) | [Auditors](https://classroom.github.com/a/0O0iMJ-G)
 
 
 ## TidyTuesday Commentary Assignments
